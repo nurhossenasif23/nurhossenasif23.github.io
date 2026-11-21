@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540"><rect width="960" height="540" fill="#e5ece2"/><g stroke="#5d8065" stroke-opacity=".07" stroke-width="1"><path d="M0 0V540"/><path d="M40 0V540"/><path d="M80 0V540"/><path d="M120 0V540"/><path d="M160 0V540"/><path d="M200 0V540"/><path d="M240 0V540"/><path d="M280 0V540"/><path d="M320 0V540"/><path d="M360 0V540"/><path d="M400 0V540"/><path d="M440 0V540"/><path d="M480 0V540"/><path d="M520 0V540"/><path d="M560 0V540"/><path d="M600 0V540"/><path d="M640 0V540"/><path d="M680 0V540"/><path d="M720 0V540"/><path d="M760 0V540"/><path d="M800 0V540"/><path d="M840 0V540"/><path d="M880 0V540"/><path d="M920 0V540"/><path d="M960 0V540"/><path d="M0 0H960"/><path d="M0 40H960"/><path d="M0 80H960"/><path d="M0 120H960"/><path d="M0 160H960"/><path d="M0 200H960"/><path d="M0 240H960"/><path d="M0 280H960"/><path d="M0 320H960"/><path d="M0 360H960"/><path d="M0 400H960"/><path d="M0 440H960"/><path d="M0 480H960"/><path d="M0 520H960"/></g><g fill="none" stroke="#466b58" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="480" cy="397" rx="210" ry="50" stroke-dasharray="5 11" opacity=".4"/>
+<path d="m453 249-140 166m194-166 140 166" stroke-dasharray="5 11" opacity=".35"/>
+<path d="m480 277 0 117" stroke-dasharray="4 9" opacity=".4"/>
+<path d="m438 224-102-56m186 56 102-56m-186 89-102 55m186-55 102 55" stroke-width="14" stroke="#b2c5ad"/>
+<path d="m438 224-102-56m186 56 102-56m-186 89-102 55m186-55 102 55"/>
+<rect x="426" y="211" width="108" height="63" rx="17" fill="#d1dfc9"/>
+<path d="M450 214v-16h60v16m-60 57v22m60-22v22"/>
+<rect x="461" y="275" width="38" height="28" rx="6" fill="#c5d5be"/>
+<circle cx="480" cy="289" r="7"/>
+<ellipse cx="327" cy="163" rx="75" ry="20"/>
+<ellipse cx="633" cy="163" rx="75" ry="20"/>
+<ellipse cx="327" cy="311" rx="75" ry="20"/>
+<ellipse cx="633" cy="311" rx="75" ry="20"/>
+<path d="M327 137v51m306-51v51m-306 97v51m306-51v51" stroke-width="4"/>
+<circle cx="327" cy="163" r="8" fill="#c6d6bf"/><circle cx="633" cy="163" r="8" fill="#c6d6bf"/><circle cx="327" cy="311" r="8" fill="#c6d6bf"/><circle cx="633" cy="311" r="8" fill="#c6d6bf"/>
+<path d="M450 381h-13v13m0 18v13h13m60-44h13v13m0 18v13h-13" stroke="#b59a57"/>
+<circle cx="480" cy="403" r="5" fill="#b59a57" stroke="none"/>
+<path d="M180 128h30m-15-15v30m555 224h30m-15-15v30" opacity=".3"/>
+</g></svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540"><rect width="960" height="540" fill="#e9ece9"/><g stroke="#5d8065" stroke-opacity=".07" stroke-width="1"><path d="M0 0V540"/><path d="M40 0V540"/><path d="M80 0V540"/><path d="M120 0V540"/><path d="M160 0V540"/><path d="M200 0V540"/><path d="M240 0V540"/><path d="M280 0V540"/><path d="M320 0V540"/><path d="M360 0V540"/><path d="M400 0V540"/><path d="M440 0V540"/><path d="M480 0V540"/><path d="M520 0V540"/><path d="M560 0V540"/><path d="M600 0V540"/><path d="M640 0V540"/><path d="M680 0V540"/><path d="M720 0V540"/><path d="M760 0V540"/><path d="M800 0V540"/><path d="M840 0V540"/><path d="M880 0V540"/><path d="M920 0V540"/><path d="M960 0V540"/><path d="M0 0H960"/><path d="M0 40H960"/><path d="M0 80H960"/><path d="M0 120H960"/><path d="M0 160H960"/><path d="M0 200H960"/><path d="M0 240H960"/><path d="M0 280H960"/><path d="M0 320H960"/><path d="M0 360H960"/><path d="M0 400H960"/><path d="M0 440H960"/><path d="M0 480H960"/><path d="M0 520H960"/></g><g fill="none" stroke="#466b58" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="489" cy="405" rx="203" ry="21" stroke-dasharray="4 10" opacity=".25"/>
+<path d="m307 231 47-80 145-5m162 81 43-71 94 9" stroke-width="9" stroke="#c6d1c8"/>
+<path d="m307 231 47-80 145-5m162 81 43-71 94 9"/>
+<path d="M266 235c28-22 112-25 150-7 20 9 27 34 18 61-9 27-25 43-56 44l-57-4c-41-4-65-37-64-66 0-14 3-22 9-28Z" fill="#dce5db"/>
+<path d="M508 229c36-18 120-15 148 7 7 6 12 15 12 29 0 29-24 61-65 65l-57 3c-32-1-48-17-57-43-9-27-1-52 19-61Z" fill="#dce5db"/>
+<path d="M438 243q22-16 47 0" stroke-width="7"/>
+<path d="M270 242c26-19 105-20 139-5 14 7 19 26 11 47-7 22-22 35-44 35l-52-4c-33-2-54-30-54-53v-20Zm247-5c32-15 111-14 137 5v20c0 23-21 51-54 53l-52 4c-22 0-37-13-44-35-8-21-3-40 13-47Z" stroke-width="1" opacity=".6"/>
+<rect x="438" y="210" width="50" height="35" rx="6" fill="#c6d5c6"/>
+<circle cx="463" cy="226" r="9"/><circle cx="463" cy="226" r="3" fill="#52735d"/>
+<path d="m463 204-48-70m48 70 48-70" stroke-dasharray="3 8" opacity=".4"/>
+<path d="M414 137q49-27 98 0" opacity=".35"/>
+<path d="m724 193 14 0m-10-13q24 13 0 26m9-39q46 26 0 52" stroke="#a88f5b" stroke-width="2"/>
+<path d="M191 326h25m-12-12v24m556-206h25m-12-12v24" opacity=".3"/>
+</g></svg>
